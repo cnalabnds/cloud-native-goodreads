@@ -3,6 +3,7 @@
 ## Introduction
 **Cloud native goodreads** is a curated list of publicly available resources on how companies around the world should practice **DevOps** - CI/CD
 
+
 There are many ways to practice DevOps. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from this documented use cases and published resources. The content you’ll find in this repository is a list of such resources.
 
 The reosources are indexed by companies, technologies, years and DevOps related topics
@@ -11,10 +12,12 @@ Happy Learning!
 
 Please note, that all the resources mentioned here are publicly available resources.
 
+## What is DevOps ?
+DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
 <hr>
 
 ## Good Reads
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus a est elementum feugiat et vel augue.
 <hr>
 
 ## Customer Stories
