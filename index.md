@@ -11,16 +11,16 @@ Happy Learning!
 
 Please note, that all the resources mentioned here are publicly available resources.
 
-***
+<hr>
 
 ## Good Reads
 
-***
+<hr>
 
 ## Customer Stories
   Customer-name01
 
-***
+<hr>
 
 ## By Category
 
@@ -29,7 +29,7 @@ Please note, that all the resources mentioned here are publicly available resour
 * [What are Microservices - AWS](https://aws.amazon.com/microservices)
 * [UNderstanding Microservices - Redhat](https://www.redhat.com/en/topics/microservices)
 
-***
+<hr>
 
 ### DevOps
 * [What is DevOps? - Amazon](https://aws.amazon.com/devops/what-is-devops) 
@@ -40,7 +40,7 @@ Please note, that all the resources mentioned here are publicly available resour
 * [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees](https://www.cloudbees.com/blog/devops-tools-cloud-native-development) 
 * [Continuous Verification, AKA Just Doing DevOps - CloudBees](https://www.cloudbees.com/blog/continuous-verification)
 
-***
+<hr>
 
 ### Kubernetes & Containers
 * [What is Kubernetes - Redhat](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
@@ -48,12 +48,12 @@ Please note, that all the resources mentioned here are publicly available resour
 * [What are containers - IBM](https://www.ibm.com/cloud/learn/containers)
 * [What is a container - Azure](https://azure.microsoft.com/en-in/overview/what-is-a-container)
 
-***
+<hr>
 
 ### Application Modernization
 * [What is application modernization - IBM](https://www.vmware.com/topics/glossary/content/application-modernization)
 
-***
+<hr>
 
 ## By Vendor
 
@@ -65,7 +65,7 @@ Please note, that all the resources mentioned here are publicly available resour
 #### Blog
 * [AWS DevOps Blog](https://aws.amazon.com/blogs/devops/)
 
-***
+<hr>
 
 ## Azure
 #### Articles
@@ -74,7 +74,7 @@ Please note, that all the resources mentioned here are publicly available resour
 #### Blog
 * [Azure DevOps Blog](https://devblogs.microsoft.com/devops)
 
-***
+<hr>
 
 ## Google
 #### Articles
@@ -82,7 +82,7 @@ Please note, that all the resources mentioned here are publicly available resour
 #### Blog
 * [Google DevOps and SRE blog](https://cloud.google.com/blog/products/devops-sre)
 
-***
+<hr>
 
 ## Redhat & IBM
 #### Articles
@@ -90,14 +90,14 @@ Please note, that all the resources mentioned here are publicly available resour
 * [What is DevOps? - RedHat](https://www.redhat.com/en/topics/devops)
 * [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
 
-***
+<hr>
 
 ## Vmware
 #### Articles
 * [What is DevOps - VMWare tanzu](https://tanzu.vmware.com/devops)
 * [What is DevOps - VMWare glosarry](https://www.vmware.com/topics/glossary/content/devops)
 
-***
+<hr>
 
 ## By year 
 ## 2021
