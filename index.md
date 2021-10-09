@@ -71,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 <details>
 <summary>AWS &#x25BC;</summary>
 
-<h4 id="blog">Blog</h4>
+<h4>Articles</h4>
 <ul>
 <li><a href="https://aws.amazon.com/devops/what-is-devops">What is DevOps?</a></li>
 <li><a href="https://aws.amazon.com/devops/resources">DevOps Resources</a></li>
