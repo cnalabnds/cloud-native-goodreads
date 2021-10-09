@@ -67,72 +67,54 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 
-### DevOps
-* [What is DevOps? - Amazon](https://aws.amazon.com/devops/what-is-devops) 
-* [What is DevOps? - Atlassian](https://www.atlassian.com/devops) 
-* [What is DevOps? - Microsoft](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops) 
-* [What is DevOps? - Red Hat](https://www.redhat.com/en/topics/devops) 
-* [DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees](https://www.cloudbees.com/blog/devops-best-practices) 
-* [8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees](https://www.cloudbees.com/blog/devops-tools-cloud-native-development) 
-* [Continuous Verification, AKA Just Doing DevOps - CloudBees](https://www.cloudbees.com/blog/continuous-verification)
-
-<hr>
-
-### Kubernetes & Containers
-* [What is Kubernetes - Redhat](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
-* [What is Kubernetes - Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
-* [What are containers - IBM](https://www.ibm.com/cloud/learn/containers)
-* [What is a container - Azure](https://azure.microsoft.com/en-in/overview/what-is-a-container)
-
-<hr>
-
-### Application Modernization
-* [What is application modernization - IBM](https://www.vmware.com/topics/glossary/content/application-modernization)
-
-<hr>
-
 ## By Vendor
+<details>
+<summary>AWS &#x25BC;</summary>
 
-## AWS
 #### Articles
-* [What is DevOps?](https://aws.amazon.com/devops/what-is-devops)
-* [DevOps Resources](https://aws.amazon.com/devops/resources)
-
-#### Blog
-* [AWS DevOps Blog](https://aws.amazon.com/blogs/devops/)
-
-<hr>
-
-## Azure
-#### Articles
-* [What is DevOps?](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops)
-
-#### Blog
-* [Azure DevOps Blog](https://devblogs.microsoft.com/devops)
-
-<hr>
-
-## Google
-#### Articles
-* [What is DevOps?](https://cloud.google.com/devops)
-#### Blog
-* [Google DevOps and SRE blog](https://cloud.google.com/blog/products/devops-sre)
-
-<hr>
-
-## Redhat & IBM
-#### Articles
-* [DevOps complete guide - IBM](https://www.ibm.com/cloud/learn/devops-a-complete-guide)
-* [What is DevOps? - RedHat](https://www.redhat.com/en/topics/devops)
-* [What is a CI/CD pipeline? - Red Hat](https://www.redhat.com/en/topics/devops/what-cicd-pipeline)
-
-<hr>
-
-## VMware
-#### Articles
-* [What is DevOps - VMware tanzu](https://tanzu.vmware.com/devops)
-* [What is DevOps - VMware glosarry](https://www.vmware.com/topics/glossary/content/devops)
-
+<ul>
+<li><a href="https://aws.amazon.com/devops/what-is-devops">What is DevOps?</a></li>
+<li><a href="https://aws.amazon.com/devops/resources">DevOps Resources</a></li>
+</ul>
+<h4 id="blog">Blog</h4>
+<ul>
+<li><a href="https://aws.amazon.com/blogs/devops/">AWS DevOps Blog</a></li>
+</ul>
+</details>
+<hr />
+<h2 id="azure">Azure</h2>
+<h4 id="articles-1">Articles</h4>
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops">What is DevOps?</a></li>
+</ul>
+<h4 id="blog-1">Blog</h4>
+<ul>
+<li><a href="https://devblogs.microsoft.com/devops">Azure DevOps Blog</a></li>
+</ul>
+<hr />
+<h2 id="google">Google</h2>
+<h4 id="articles-2">Articles</h4>
+<ul>
+<li><a href="https://cloud.google.com/devops">What is DevOps?</a>
+<h4 id="blog-2">Blog</h4>
+</li>
+<li><a href="https://cloud.google.com/blog/products/devops-sre">Google DevOps and SRE blog</a></li>
+</ul>
+<hr />
+<h2 id="redhat--ibm">Redhat &amp; IBM</h2>
+<h4 id="articles-3">Articles</h4>
+<ul>
+<li><a href="https://www.ibm.com/cloud/learn/devops-a-complete-guide">DevOps complete guide - IBM</a></li>
+<li><a href="https://www.redhat.com/en/topics/devops">What is DevOps? - RedHat</a></li>
+<li><a href="https://www.redhat.com/en/topics/devops/what-cicd-pipeline">What is a CI/CD pipeline? - Red Hat</a></li>
+</ul>
+<hr />
+<h2 id="vmware">VMware</h2>
+<h4 id="articles-4">Articles</h4>
+<ul>
+<li><a href="https://tanzu.vmware.com/devops">What is DevOps - VMware tanzu</a></li>
+<li><a href="https://www.vmware.com/topics/glossary/content/devops">What is DevOps - VMware glosarry</a></li>
+</ul>
 <hr>
 
 ## By year 
