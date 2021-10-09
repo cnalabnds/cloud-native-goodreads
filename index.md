@@ -12,6 +12,7 @@ Please note, that all the resources mentioned here are publicly available resour
 ## Customer Stories
   Customer-name01
 ## By Category
+
 ### Microservices
 * [What are Microservices - IBM](https://www.ibm.com/cloud/learn/microservices)
 * [What are Microservices - AWS](https://aws.amazon.com/microservices)
