@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 ## By Category
 
 <details>
-<summary>Microservices &#x25BC;</summary>
+<summary>&#x25B6; Microservices</summary>
 <ul>
   <li><a href="https://www.ibm.com/cloud/learn/microservices">What are Microservices - IBM</a></li>
   <li><a href="https://aws.amazon.com/microservices">What are Microservices - AWS</a></li>
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 <details>
-<summary>DevOps &#x25BC;</summary>
+<summary>&#x25B6; DevOps</summary>
 <ul>
 <li><a href="https://aws.amazon.com/devops/what-is-devops">What is DevOps? - Amazon</a></li>
 <li><a href="https://www.atlassian.com/devops">What is DevOps? - Atlassian</a></li>
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 <details>
-<summary>Kubernetes & Containers &#x25BC;</summary>
+<summary>&#x25B6; Kubernetes & Containers</summary>
 <ul>
 <li><a href="https://www.redhat.com/en/topics/containers/what-is-kubernetes">What is Kubernetes - Redhat</a></li>
 <li><a href="https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/">What is Kubernetes - Kubernetes</a></li>
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr>
 <details>
-<summary>Application Modernization &#x25BC;</summary>
+<summary>&#x25B6; Application Modernization</summary>
 <ul>
 <li><a href="https://www.vmware.com/topics/glossary/content/application-modernization">What is application modernization - IBM</a></li>
 </ul>
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 
 ## By Vendor
 <details>
-<summary>AWS &#x25BC;</summary>
+<summary>&#x25B6; AWS</summary>
 
 <h4>Articles</h4>
 <ul>
@@ -84,7 +84,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 <hr />
 
 <details>
-	<summary>Azure &#x25BC;</summary>
+	<summary>&#x25B6; Azure</summary>
 	<h4 id="articles-1">Articles</h4>
 	<ul>
 	<li><a href="https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops">What is DevOps?</a></li>
@@ -96,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr />
 <details>
-	<summary>Google &#x25BC;</summary>
+	<summary>&#x25B6; Google</summary>
 	<h4 id="articles-2">Articles</h4>
 	<ul>
 	<li><a href="https://cloud.google.com/devops">What is DevOps?</a>
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 <hr />
 
 <details>
-	<summary>Redhat IBM &#x25BC;</summary>
+	<summary>&#x25B6; Redhat IBM</summary>
 	<h4 id="articles-3">Articles</h4>
 	<ul>
 	<li><a href="https://www.ibm.com/cloud/learn/devops-a-complete-guide">DevOps complete guide - IBM</a></li>
@@ -121,7 +121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </details>
 <hr />
 <details>
-	<summary>VMware &#x25BC;</summary>
+	<summary>&#x25B6; VMware</summary>
 	<h4 id="articles-4">Articles</h4>
 	<ul>
 	<li><a href="https://tanzu.vmware.com/devops">What is DevOps - VMware tanzu</a></li>
