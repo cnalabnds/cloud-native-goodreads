@@ -71,7 +71,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 <details>
 <summary>AWS &#x25BC;</summary>
 
-#### Articles
+<h4 id="blog">Blog</h4>
 <ul>
 <li><a href="https://aws.amazon.com/devops/what-is-devops">What is DevOps?</a></li>
 <li><a href="https://aws.amazon.com/devops/resources">DevOps Resources</a></li>
@@ -82,39 +82,52 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </ul>
 </details>
 <hr />
-<h2 id="azure">Azure</h2>
-<h4 id="articles-1">Articles</h4>
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops">What is DevOps?</a></li>
-</ul>
-<h4 id="blog-1">Blog</h4>
-<ul>
-<li><a href="https://devblogs.microsoft.com/devops">Azure DevOps Blog</a></li>
-</ul>
+
+<details>
+	<summary>Azure &#x25BC;</summary>
+	<h4 id="articles-1">Articles</h4>
+	<ul>
+	<li><a href="https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops">What is DevOps?</a></li>
+	</ul>
+	<h4 id="blog-1">Blog</h4>
+	<ul>
+	<li><a href="https://devblogs.microsoft.com/devops">Azure DevOps Blog</a></li>
+	</ul>
+</details>
 <hr />
-<h2 id="google">Google</h2>
-<h4 id="articles-2">Articles</h4>
-<ul>
-<li><a href="https://cloud.google.com/devops">What is DevOps?</a>
-<h4 id="blog-2">Blog</h4>
-</li>
-<li><a href="https://cloud.google.com/blog/products/devops-sre">Google DevOps and SRE blog</a></li>
-</ul>
+<details>
+	<summary>Google &#x25BC;</summary>
+	<h4 id="articles-2">Articles</h4>
+	<ul>
+	<li><a href="https://cloud.google.com/devops">What is DevOps?</a>
+	</li>
+	</ul>
+	<h4 id="blog-2">Blog</h4>
+	<ul>
+		<li><a href="https://cloud.google.com/blog/products/devops-sre">Google DevOps and SRE blog</a>
+		</li>
+	</ul>
+</details>
 <hr />
-<h2 id="redhat--ibm">Redhat &amp; IBM</h2>
-<h4 id="articles-3">Articles</h4>
-<ul>
-<li><a href="https://www.ibm.com/cloud/learn/devops-a-complete-guide">DevOps complete guide - IBM</a></li>
-<li><a href="https://www.redhat.com/en/topics/devops">What is DevOps? - RedHat</a></li>
-<li><a href="https://www.redhat.com/en/topics/devops/what-cicd-pipeline">What is a CI/CD pipeline? - Red Hat</a></li>
-</ul>
+
+<details>
+	<summary>Redhat IBM &#x25BC;</summary>
+	<h4 id="articles-3">Articles</h4>
+	<ul>
+	<li><a href="https://www.ibm.com/cloud/learn/devops-a-complete-guide">DevOps complete guide - IBM</a></li>
+	<li><a href="https://www.redhat.com/en/topics/devops">What is DevOps? - RedHat</a></li>
+	<li><a href="https://www.redhat.com/en/topics/devops/what-cicd-pipeline">What is a CI/CD pipeline? - Red Hat</a></li>
+	</ul>
+</details>
 <hr />
-<h2 id="vmware">VMware</h2>
-<h4 id="articles-4">Articles</h4>
-<ul>
-<li><a href="https://tanzu.vmware.com/devops">What is DevOps - VMware tanzu</a></li>
-<li><a href="https://www.vmware.com/topics/glossary/content/devops">What is DevOps - VMware glosarry</a></li>
-</ul>
+<details>
+	<summary>VMware &#x25BC;</summary>
+	<h4 id="articles-4">Articles</h4>
+	<ul>
+	<li><a href="https://tanzu.vmware.com/devops">What is DevOps - VMware tanzu</a></li>
+	<li><a href="https://www.vmware.com/topics/glossary/content/devops">What is DevOps - VMware glosarry</a></li>
+	</ul>
+</details>
 <hr>
 
 ## By year 
