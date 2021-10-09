@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 ## By Category
 
 <details>
-<summary>Microservices<img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/arrow_drop_down/v15/24px.svg"></summary>
+<summary>Microservices &#x25BC;</summary>
 * [What are Microservices - IBM](https://www.ibm.com/cloud/learn/microservices)
 * [What are Microservices - AWS](https://aws.amazon.com/microservices)
 * [UNderstanding Microservices - Redhat](https://www.redhat.com/en/topics/microservices)
