@@ -36,6 +36,36 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed lectus 
 </ul>  
 </details>
 <hr>
+<details>
+<summary>DevOps &#x25BC;</summary>
+<ul>
+<li><a href="https://aws.amazon.com/devops/what-is-devops">What is DevOps? - Amazon</a></li>
+<li><a href="https://www.atlassian.com/devops">What is DevOps? - Atlassian</a></li>
+<li><a href="https://docs.microsoft.com/en-us/azure/devops/learn/what-is-devops">What is DevOps? - Microsoft</a></li>
+<li><a href="https://www.redhat.com/en/topics/devops">What is DevOps? - Red Hat</a></li>
+<li><a href="https://www.cloudbees.com/blog/devops-best-practices">DevOps Best Practices: Opinionated Software That Drives a Successful DevOps Culture - CloudBees</a></li>
+<li><a href="https://www.cloudbees.com/blog/devops-tools-cloud-native-development">8 DevOps Tools You Should Use for Opinionated, Cloud Native App Development - CloudBees</a></li>
+<li><a href="https://www.cloudbees.com/blog/continuous-verification">Continuous Verification, AKA Just Doing DevOps - CloudBees</a></li>
+</ul>
+</details>
+<hr>
+<details>
+<summary>Kubernetes & Containers &#x25BC;</summary>
+<ul>
+<li><a href="https://www.redhat.com/en/topics/containers/what-is-kubernetes">What is Kubernetes - Redhat</a></li>
+<li><a href="https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/">What is Kubernetes - Kubernetes</a></li>
+<li><a href="https://www.ibm.com/cloud/learn/containers">What are containers - IBM</a></li>
+<li><a href="https://azure.microsoft.com/en-in/overview/what-is-a-container">What is a container - Azure</a></li>
+</ul>
+</details>
+<hr>
+<details>
+<summary>Application Modernization &#x25BC;</summary>
+<ul>
+<li><a href="https://www.vmware.com/topics/glossary/content/application-modernization">What is application modernization - IBM</a></li>
+</ul>
+</details>
+<hr>
 
 ### DevOps
 * [What is DevOps? - Amazon](https://aws.amazon.com/devops/what-is-devops) 
