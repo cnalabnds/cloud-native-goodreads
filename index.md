@@ -1,3 +1,6 @@
+__
+title: Cloud native goodreads
+__
 ## Introduction
 Cloud native goodreads is a curated list of publicly available resources on how companies around the world should practice DevOps - CI/CD
 
